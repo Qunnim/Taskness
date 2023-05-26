@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "921136698440",
+    "firebase_url": "https://taskness-b1443-default-rtdb.firebaseio.com",
+    "project_id": "taskness-b1443",
+    "storage_bucket": "taskness-b1443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921136698440:android:876951e338514744eff47d",
+        "android_client_info": {
+          "package_name": "com.example.taskness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvTfikMBhz-dVNh8wvje90_JphVvzDZzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
